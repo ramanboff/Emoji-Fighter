@@ -1,2 +1,2 @@
 # Emoji-Fighter
-built via  HTML,  CSS and  JavaScript
+built via  HTML,  CSS and  JavaScript!
